@@ -1,0 +1,29 @@
+code .  // visual studio code open
+ls -lart // shows all the files(hidden as well as main files) also shows git file
+ls -a  // shows the same as ls -lart
+touch vk.cpp // creates blank file naming vk.cpp
+git add .   // to add files into staging area
+git commit // opens a terminal where we can write msgs about that commit so that other could understand
+		// i -- to enter the cursor to write text
+		// esc + : + wq  --- to exit
+git commit -m "message"  // to commit without terminal
+clear // to clear the terminal
+git checkout <filename>  // update that particular file with the previous commit
+git checkout -f //update all the files with the previous commit
+git log -p -<number>  // number indicates no. of last commits we want to see and with the changes done to the file
+			// if 1000 commits are done and we want to see only last 3 commits then we can use this
+git diff  //to compare the working directorty with sataging area
+git diff --staged  // to compare staging area with last commit
+git commit -a -m "message"   // skipped the staging area and commit all the files directly without going to staging area
+git rm --cached <file name>   // remove the file from staging area
+
+git rm <file name>      // remove the file completely that means delete the file
+/log.log  // ignore that files only where .gitignore is there
+*.log     // ignore that files whose extension is .log
+ignore/   // ignore the folder 
+
+git branch   // to show the branches
+
+git checkout <branch name>
+git checkout -b <branch name>   //creation of branch and jump to that branch directly
+
