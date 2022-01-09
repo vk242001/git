@@ -6,7 +6,6 @@ int main()
 {
     cout << "vipul kapoor" << endl;
     cout << "vipul kapoor" << endl;
-    fnslkfjsdLF;
-    sdkfk
-        fjsdajflkasjlkd return 0;
+
+    return 0;
 }

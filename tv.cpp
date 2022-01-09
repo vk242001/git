@@ -7,8 +7,4 @@ int main()
     cout << "television::" << endl;
     cout << "television::" << endl;
     return 0;
-    fdsfsdfj
-        jflkjlasdj;
-    lfkjls
 }
-lajflsajdlfjsaldfj
