@@ -1,0 +1,14 @@
+git config --global user.name  //to show name 
+git config --global user.email   // to show email id 
+ls // shows all file 
+ls -a  // .git file shows and track all files
+git status // to see the changes 
+git add file name // to add file to staging area 
+git commit -m messageadded // to add to commit
+git log //  to see the commits 
+clear // to clear the screen
+git add . // to add all the files in the staging area
+git checkout code // to jump to that commit
+git branch // to check the branch where we are
+git remote-v  // tp check the origin 
+git remote add origin _____ // for push
