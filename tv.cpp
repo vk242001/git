@@ -8,4 +8,3 @@ int main()
     cout << "television::" << endl;
     return 0;
 }
-int
