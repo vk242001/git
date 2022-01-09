@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "television::";
+    cout << "television::" << endl;
     return 0;
 }
