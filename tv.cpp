@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "television::" << endl;
-    cout << "television::" << endl;
+    cout << "television:: is good nowadays" << endl;
+
     return 0;
 }
