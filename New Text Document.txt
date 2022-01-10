@@ -27,3 +27,8 @@ git branch   // to show the branches
 git checkout <branch name>
 git checkout -b <branch name>   //creation of branch and jump to that branch directly
 
+git remote    // 
+git remote -v    //url show
+git push -u origin master
+
+git clone
