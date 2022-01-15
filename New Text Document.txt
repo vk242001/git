@@ -29,6 +29,9 @@ git checkout -b <branch name>   //creation of branch and jump to that branch dir
 
 git remote    // 
 git remote -v    //url show
+
+git branch -M main     // need to know about this
+
 git push -u origin master
 
-git clone
+git cloneclear
